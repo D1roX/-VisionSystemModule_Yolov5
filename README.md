@@ -19,4 +19,4 @@
 ### Нормальный датасет (New normal dataset)
 #### 448 px 16 batch 1200 epoch
 mAP 0,5 - 0,95
-![mAP 0,5 - 0,95](https://user-images.githubusercontent.com/86681516/162638155-2b163c29-e5bb-4ca7-ad90-4ca7f6ff66bc.png)
+![mAP 0,5 - 0,95](https://user-images.githubusercontent.com/86681516/163725231-ed3df260-7a24-4fab-a57a-fa141ba392da.png)
